@@ -7,8 +7,8 @@
  * @package 	Total Days in Month
  * @category	Plugin
  * @author		Johnathan Waters
- * @copyright	2013, Johnathan Waters
- * @link 		http://www.papercutinteractive.com/
+ * @copyright	2013-2014, Johnathan Waters
+ * @link 		http://johnathan-waters.com/
  */
 
 $plugin_info = array (
@@ -130,5 +130,5 @@ Or you can also use the current date:
 }
 // END CLASS
 
-/* End of file pi.session_variables.php */
-/* Location: ./system/expressionengine/third_party/session_variables/pi.session_variables.php */
+/* End of file pi.total_days_in_month.php */
+/* Location: ./system/expressionengine/third_party/total_days_in_month/pi.total_days_in_month.php */
