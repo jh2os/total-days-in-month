@@ -12,11 +12,11 @@ This returns 29
 The parameter month can take all expressionengine date formats
 ex:     
 
-*%m      02
+* %m      02
 
-*%M      Feb or feb
+* %M      Feb or feb
 
-*%F      February or february
+* %F      February or february
 
 
 * Year is optional. If not supplied, the plugin assumes the current year
