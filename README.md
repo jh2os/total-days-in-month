@@ -13,7 +13,9 @@ The parameter month can take all expressionengine date formats
 ex:     
 
 *%m      02
+
 *%M      Feb or feb
+
 *%F      February or february
 
 
